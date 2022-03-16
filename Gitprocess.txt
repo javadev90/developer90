@@ -1,0 +1,32 @@
+Process to setup Git in local
+------------------------------
+
+Step-1
+------
+
+download the git from below given url:
+
+			https://git-scm.com/download/win
+
+Step-2
+------
+install the downloaded git file
+
+Warning: you must have the Github account to proceed further
+
+step-3
+------
+ Copy the HTTP url or SSH key url to clone the repository from your Github account
+
+step-4
+------
+
+Open the Gitbash terminal and type the below command
+
+git clone <your copied path(step-3)> and press ENTER button
+
+and then type the below command
+
+git init
+
+
